@@ -1,0 +1,415 @@
+/* Crappy CSS done by CoinGame
+
+some icons used from:
+https://github.com/Templarian/WindowsIcons/tree/master/WindowsPhone
+
+some css code inspired by, or directly taken from
+/r/vertcoin
+
+*/
+
+body {
+
+    background-color: white;
+    color: black;
+
+/*
+  background: -webkit-linear-gradient(left, white, white, white, #fbe694, #fbe694); 
+  background: -o-linear-gradient(right, white, white, white, #fbe694, #fbe694); 
+  background: -moz-linear-gradient(right, white, white, white, #fbe694, #fbe694);
+  background: linear-gradient(to right, white, white, white, #fbe694, #fbe694);
+*/
+}
+
+
+#header {
+background-color: #231f20;
+height: 100px;
+border-bottom: 1px solid black;
+/*background: url(%%LogoBannerSliceBlank%%);
+background-repeat: no-repeat;
+background-size: cover; 
+//margin-bottom: 25px;
+
+background: -webkit-linear-gradient(left, white, white, white, #fbe694, #fbe694, #fbe694);
+  background: -o-linear-gradient(right, white, white, white, #fbe694, #fbe694, #fbe694); 
+  background: -moz-linear-gradient(right, white, white, white, #fbe694, #fbe694, #fbe694); 
+  background: linear-gradient(to right, white, white, white, #fbe694, #fbe694, #fbe694); 
+*/
+
+
+
+    
+}
+
+
+#header-img {
+background-image: url(%%nubits-logo-250%%) !important;
+background-size: 60px 60px;
+position: absolute;
+left: 20px !important;
+top: 7px !important;
+padding: 0px;
+margin: 0px;
+height: 60px !important;
+width: 90px !important;
+background-repeat: no-repeat;
+
+}
+
+
+#header-img:hover {
+background-image: url(%%nushares-logo-250%%) !important;
+background-size: 60px 60px;
+position: absolute;
+left: 20px !important;
+top: 7px !important;
+padding: 0px;
+margin: 0px;
+height: 60px !important;
+width: 90px !important;
+background-repeat: no-repeat;
+
+
+}
+
+#header-img:hover + .tabmenu {
+
+border-top: 4px solid #ef3614;
+
+}
+
+
+
+
+#header-bottom-left {
+
+height: 100px;
+position: absolute;
+top: 18px;
+width: 100%;
+
+}
+
+
+#header-bottom-right {
+    position: absolute !important;
+    height: 10px !important;
+    bottom: 0px !important;
+    right: 0px;
+    top: 30px !important;
+    background: transparent;
+    color: #ef3614;
+}
+
+#header-bottom-right a:link {
+
+    color: #f9f9f9;
+
+}
+
+#header-bottom-right a:visited {
+
+    color: #f9f9f9;
+
+}
+
+#userbarToggle {
+
+
+    color: black !important;
+    border-right: #f9f9f9 !important;
+    background-color: #f9f9f9 !important;
+
+}
+
+#sr-header-area {
+
+    height:18px;
+    background: rgba(255,255,255,0.0);
+    color: white;
+    border: 0px;
+
+}
+
+#sr-header-area a:link {
+
+    color: white;
+
+}
+
+#sr-header-area a:visited {
+
+    color: white;
+
+}
+
+#RESShortcutsEditContainer {
+
+    color: black !important;
+    border-right: #f9f9f9 !important;
+    background-color: #f9f9f9 !important;
+
+}
+
+
+.default-header { 
+
+}
+
+
+.pagename a {
+
+display:block;
+text-indent: -9999px;
+background: url(%%Nubits200x42%%);
+z-index: 99;
+background-repeat: no-repeat;
+position: absolute;
+width: 200px;
+height: 40px;
+top: 20px;
+left: 85px;
+}
+
+
+.pagename {
+
+color: white;
+
+}
+
+.tabmenu {
+background-color: #231f20;
+position: absolute;
+top: 70px;
+height: 18px;
+width: 100%;
+left: 0px;
+border-bottom: 1px solid white;
+border-top: 4px solid #ffb800;
+
+}
+
+.tabmenu li a {
+
+vertical-align: middle !important;
+background-color: transparent;
+color: white;
+
+}
+
+.tabmenu li a:hover {
+
+border: 1px solid black;
+border-bottom: 1px solid white;
+color: black;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+background-color: white;
+
+
+}
+
+.tabmenu li.selected a {
+
+border: 1px solid black;
+border-bottom: 1px solid white;
+color: black;
+padding-left: 5px;
+padding-right: 5px;
+padding-top: 2px;
+padding-bottom: 2px;
+
+}
+
+.side {
+
+margin-top: 20px;
+padding: 5px;
+border: 1px solid black;
+
+}
+
+.content {
+
+margin-top: 20px;
+
+}
+
+
+/*
+a.title {
+
+color: #c4252e !important;
+font-weight: bold !important;
+}
+
+a.title:visited {
+
+color: #00b8fd !important;
+font-weight: bold !important;
+
+}
+*/
+
+/*-----------------------------------------Header header------------------------------------------*/
+
+#sr-header-area {
+
+
+
+
+}
+
+/*---------------------------------------- Sidebar ------------------------------------*/
+
+
+
+/*---------------------------------------- Sidebar boxes ----------------------------------------*/
+
+.side .md ul {
+
+margin: 2px;
+
+}
+
+
+.side .md ul li {
+
+list-style-type: none;
+padding: 3px;
+
+}
+
+div.titlebox .md h3 {
+
+color: white;
+background-color:#231f20;
+border-radius: 2px;
+padding: 5px;
+font-size: 24px;
+
+}
+
+div.titlebox .md h3:before {
+
+padding-right: 35px;
+
+}
+
+
+/*------------------------------------ Sidebar Header Icons ----------------------------------------*/
+
+
+/*NuBits*/
+div.titlebox .md h3:nth-of-type(1):before {
+
+background-image: url(%%nubits-logo-250%%) !important;
+padding-top: 3px;
+background-size: 90%;
+background-position: left center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+
+/*NuShares*/
+div.titlebox .md h3:nth-of-type(2):before {
+
+background-image: url(%%nushares-logo-250%%) !important;
+padding-top: 3px;
+background-size: 90%;
+background-position: left center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*Download*/
+div.titlebox .md h3:nth-of-type(3):before {
+
+background-image: url(%%download%%) !important;
+background-size: 130%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*Stay Connected*/
+div.titlebox .md h3:nth-of-type(4):before {
+
+background-image: url(%%appbar%%) !important;
+background-size: 110%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*information*/
+div.titlebox .md h3:nth-of-type(5):before {
+
+background-image: url(%%information%%) !important;
+background-size: 120%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*NuBot*/
+div.titlebox .md h3:nth-of-type(6):before {
+
+background-image: url(%%nubot%%) !important;
+background-size: 130%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*reddit tip bot*/
+div.titlebox .md h3:nth-of-type(7):before {
+
+background-image: url(%%money%%) !important;
+background-size: 120%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
+/*------------------------------------------------------------------*/
+
+.side .md .blockquote {
+    margin:8px;
+}
+
+.side .md blockquote {
+    border-left: 0;
+    /* border: 1px solid #bbbbbb; */
+    padding: 0;
+    background: #ffffff;
+}
+.side .md blockquote  h3 {
+    background-color: #0074a0;
+    border-bottom: 1px solid #bbbbbb;
+    padding: 3px;
+    color:#ffffff;
+}
+.side .md blockquote h3 ~ * {
+    padding: 3px;
+}
+.side .md blockquote a {
+    color: #c7252e;
+    font-weight: bold;
+}
+.md blockquote, .help blockquote {
+    margin-right: 0px;
+    margin-left: 0px;
+}

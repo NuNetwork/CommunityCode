@@ -1,0 +1,49 @@
+###NuBits
+>
+* NuBits are the worlds first stable value digital currency. One NuBit is equal to one US dollar in value. It works like many other popular digital currencies without the risk of volatility.
+* [Introduction Video] (https://www.youtube.com/watch?v=D_imtRPCKCg)
+* [Parking Overview] (http://docs.nubits.com/v1.0/docs/parking)
+
+###NuShares
+>
+* NuShares represent ownership in the Nu Network. Owning NuShares allows you to vote on decisions that will impact the future of the network.
+* [NuShares Introduction](https://nubits.com/nushares/introduction)
+* [Voting Mechanics] (https://nubits.com/nushares/voting-mechanics)
+* [Dividends] (https://nubits.com/nushares/dividends)
+
+
+###Downloads
+>
+* [Official NuBits Wallet](http://nubits.com/download)
+* [Official Android Wallet] (https://play.google.com/store/apps/details?id=com.matthewmitchell.nubits_android_wallet)
+* [Coinomi Android Wallet] (https://play.google.com/store/apps/details?id=com.coinomi.wallet)
+* [Press Kit](https://nubits.com/sites/default/files/assets/NuBits%20Press%20Kit_0.zip)
+
+###Stay Connected
+>
+*  [NuBits.com](http://www.nubits.com)
+*  [Twitter.com/OfficialNuBits](http://www.twitter.com/OfficialNuBits)
+*  [Facebook.com/OfficialNuBits](http://www.facebook.com/OfficialNuBits)
+* [Official Forum Discuss.nubits.com](http://discuss.nubits.com)
+ 
+###Information
+>
+* [FAQ] (https://nubits.com/about/faqs)
+* [Exchanges] (https://nubits.com/exchanges)
+* [Block Explorer] (http://blockexplorer.nu/)
+* [White Paper] (https://nubits.com/about/white-paper)
+* [Technical Documentation] (http://docs.nubits.com/)
+* [Brand support] (http://nubrand.me/)
+* [Jobs] (https://nubits.com/about/jobs)
+
+###NuBot
+>
+* NuBot helps NuNet custodians maintain NuBits at $1 on many popular crypto-currency exchanges.
+* [Source Code] (https://bitbucket.org/JordanLeePeershares/nubottrading)
+
+###Reddit Tip Bot
+>
+* [WIKI] (http://www.reddit.com/r/NuBitsTippingBot/wiki/index)
+* [+register] (http://www.reddit.com/message/compose?to=nbtip&subject=register&message=%2Bregister)
+* [+info] (http://www.reddit.com/message/compose?to=nbtip&subject=info&message=%2Binfo)
+* [+withdraw] (http://www.reddit.com/message/compose?to=nbtip&subject=withdraw&message=%2Bwithdraw%20ADDRESS%20AMOUNT)
