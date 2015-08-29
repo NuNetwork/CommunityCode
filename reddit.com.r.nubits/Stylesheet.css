@@ -384,6 +384,17 @@ background-repeat: no-repeat;
 
 }
 
+/*friends*/
+div.titlebox .md h3:nth-of-type(8):before {
+
+background-image: url(%%friends%%) !important;
+background-size: 120%;
+background-position: center center;
+content: "";
+background-repeat: no-repeat;
+
+}
+
 /*------------------------------------------------------------------*/
 
 .side .md .blockquote {
@@ -413,3 +424,4 @@ background-repeat: no-repeat;
     margin-right: 0px;
     margin-left: 0px;
 }
+

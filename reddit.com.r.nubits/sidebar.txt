@@ -2,6 +2,7 @@
 >
 * NuBits are the worlds first stable value digital currency. One NuBit is equal to one US dollar in value. It works like many other popular digital currencies without the risk of volatility.
 * [Introduction Video] (https://www.youtube.com/watch?v=D_imtRPCKCg)
+* [Liquidity Pools] (https://www.docs.nubits.com/liquidity-pools/)
 * [Parking Overview] (http://docs.nubits.com/v1.0/docs/parking)
 
 ###NuShares
@@ -47,3 +48,7 @@
 * [+register] (http://www.reddit.com/message/compose?to=nbtip&subject=register&message=%2Bregister)
 * [+info] (http://www.reddit.com/message/compose?to=nbtip&subject=info&message=%2Binfo)
 * [+withdraw] (http://www.reddit.com/message/compose?to=nbtip&subject=withdraw&message=%2Bwithdraw%20ADDRESS%20AMOUNT)
+
+###Friends
+>
+* [/r/cryptocurrency] (http://www.reddit.com/r/cryptocurrency)
